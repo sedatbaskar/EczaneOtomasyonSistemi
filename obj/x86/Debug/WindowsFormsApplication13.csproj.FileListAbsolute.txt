@@ -1,0 +1,62 @@
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form1.resources
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Properties.Resources.resources
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.exe
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.pdb
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form2.resources
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\eczane_otomasyonu.mdf
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\eczane_otomasyonu_log.ldf
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form3.resources
+C:\Users\fatih\Desktop\örnekler\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.exe
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.pdb
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\eczane_otomasyonu.mdf
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\eczane_otomasyonu_log.ldf
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form1.resources
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form2.resources
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form3.resources
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Properties.Resources.resources
+C:\Users\fatih\Desktop\visuol stduio 2010\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.exe
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.pdb
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\eczane_otomasyonu.mdf
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\eczane_otomasyonu_log.ldf
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form1.resources
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form2.resources
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form3.resources
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Properties.Resources.resources
+D:\YBS\görsel 2proje\FATİH TABU 2013212032\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.exe
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.pdb
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\eczane_otomasyonu.mdf
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\eczane_otomasyonu_log.ldf
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form1.resources
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form2.resources
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form3.resources
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Properties.Resources.resources
+D:\YBS\görsel 2proje\UFUK EKİNCİ-2013212043\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.exe
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.pdb
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form1.resources
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form2.resources
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Form3.resources
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Properties.Resources.resources
+C:\Users\sedat\Desktop\görsel-2 projesi\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
